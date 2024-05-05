@@ -32,13 +32,13 @@ To run **InnoHub** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/innohub.git
+sudo git clone https://github.com/ABDUL-REHMAN345/Innohub-Master.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/innohub.git
+git clone https://github.com/ABDUL-REHMAN345/Innohub-Master.git
 ```
 
 ### Contact
